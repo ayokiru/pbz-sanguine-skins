@@ -15,6 +15,7 @@ Every zip holds `ProjectPBZ/Content/Paks/~mods/...`. Unpack it into the game fol
 | Sanguine Skins Full | Jagged Steel and Outlaw Warblade | main file |
 | Jagged Steel only | Only Jagged Steel, with blood trails | instead of Full |
 | Outlaw Warblade only | Only the Outlaw Warblade, with crimson trails | instead of Full |
+| White Serpent and Crimson Viper only | Only the serpent blades, with blood trails | instead of Full |
 
 "Instead of Full" files use the same pak name as Full, so they replace it. Addons can go on top of any of them.
 

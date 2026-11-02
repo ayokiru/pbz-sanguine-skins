@@ -17,6 +17,24 @@
       "skin": "Long",
       "scabbard": true,
       "trail_color": "outlaw-crimson"
+    },
+    {
+      "base": "SnakeDual",
+      "skin": "Double",
+      "scabbard": true,
+      "trails": {
+        "Normal.A.*": "NS_JinYe_BloodTrail_101",
+        "Normal.B.*": "NS_ChiYingGuRen_BladeTrail_002",
+        "Normal.C.R*": "NS_BaiShan_BladeTrail_Red_102",
+        "Normal.C.L": "NS_BaiShan_BladeTrail_Red_102"
+      },
+      "effect_meshes": [
+        {
+          "slot": 1,
+          "system": "NS_SnakeDual_PhantomSword_001",
+          "mesh": "SM_FX_DoubleBlade_101"
+        }
+      ]
     }
   ]
 }
