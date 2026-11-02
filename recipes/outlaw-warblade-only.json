@@ -1,0 +1,12 @@
+{
+  "pak_name": "zzz_SanguineSkins_P",
+  "fx_folder": "/PBZVFXPack/VFX/SanguineSkins",
+  "weapons": [
+    {
+      "base": "ZhanMaBlade",
+      "skin": "Long",
+      "scabbard": true,
+      "trail_color": "outlaw-crimson"
+    }
+  ]
+}
