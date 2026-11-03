@@ -17,6 +17,7 @@ Every zip holds `ProjectPBZ/Content/Paks/~mods/...`. Unpack it into the game fol
 | Outlaw Warblade only | Only the Outlaw Warblade, with crimson trails | instead of Full |
 | White Serpent and Crimson Viper only | Only the serpent blades, with blood trails | instead of Full |
 | Wild Oriole Sword addon | The Sanguine blade on the Wild Oriole sword, its own trails | addon |
+| Trails only - original weapon models | The trails without the skins | instead of Full |
 
 "Instead of Full" files use the same pak name as Full, so they replace it. Addons can go on top of any of them.
 
