@@ -1,0 +1,15 @@
+{
+  "pak_name": "zzz_SanguineSkins_Fanatic_P",
+  "weapons": [
+    {
+      "base": "ChiZheZuiJian",
+      "skin": "Tang",
+      "scabbard": true
+    },
+    {
+      "base": "ChiZheCanJian",
+      "skin": "Tang",
+      "scabbard": true
+    }
+  ]
+}
