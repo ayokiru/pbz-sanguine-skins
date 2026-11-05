@@ -21,6 +21,7 @@ Every zip holds `ProjectPBZ/Content/Paks/~mods/...`. Unpack it into the game fol
 | Fanatic Swords Sanguine addon | The Sanguine blade on the Fanatic's Broken and Drunken Sword | addon |
 | Bonesaw Sanguine addon | The long Sanguine blade with crimson trails on the Bonesaw | addon |
 | Jagged Steel Wild Oriole trails addon | Sanguine Jagged Steel with the Wild Oriole's trails | addon, on top of Full |
+| Skins only - plain trails | The three skins, original trails, a plain white cut on the Outlaw Warblade | instead of Full |
 
 "Instead of Full" files use the same pak name as Full, so they replace it. Addons can go on top of any of them.
 
