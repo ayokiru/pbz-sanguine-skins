@@ -5,6 +5,7 @@
   <a href="https://github.com/ayokiru/pbz-sanguine-skins/releases/latest"><img src="https://img.shields.io/github/v/release/ayokiru/pbz-sanguine-skins?style=flat-square&label=download&color=8B0A12" alt="Latest release"></a>
   <img src="https://img.shields.io/badge/game-Phantom%20Blade%20Zero-1A1416?style=flat-square" alt="Phantom Blade Zero">
   <a href="https://github.com/ayokiru/pbz-bladesmith"><img src="https://img.shields.io/badge/built%20with-Bladesmith-1A1416?style=flat-square" alt="Built with Bladesmith"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-8B0A12?style=flat-square" alt="MIT license"></a>
 </p>
 
 <p align="center">
@@ -91,3 +92,7 @@ Every recipe in [`recipes`](recipes) is a [Bladesmith](https://github.com/ayokir
 ```
 bladesmith build recipes/full.json --install
 ```
+
+## License
+
+[MIT](LICENSE) for the recipes, texts and pictures in this repo. Phantom Blade Zero and the game data inside the paks belong to S-GAME.
