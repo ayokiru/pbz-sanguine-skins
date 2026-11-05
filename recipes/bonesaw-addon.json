@@ -1,0 +1,17 @@
+{
+  "pak_name": "zzz_SanguineSkins_Bonesaw_P",
+  "fx_folder": "/PBZVFXPack/VFX/SanguineSkins_Bonesaw",
+  "weapons": [
+    {
+      "base": "Jigsaw",
+      "skin": "Long",
+      "scabbard": true,
+      "trails": {
+        "Normal.A": "NS_Weapon_ZhanMaDao_Blade_B_001",
+        "Normal.B": "NS_Weapon_ZhanMaDao_Blade_C_001",
+        "Normal.C": "NS_Weapon_ZhanMaDao_Blade_C_001"
+      },
+      "trail_color": "outlaw-crimson"
+    }
+  ]
+}
