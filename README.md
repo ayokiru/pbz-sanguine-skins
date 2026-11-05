@@ -25,6 +25,14 @@ Every zip holds `ProjectPBZ/Content/Paks/~mods/...`. Unpack it into the game fol
 
 "Instead of Full" files use the same pak name as Full, so they replace it. Addons can go on top of any of them.
 
+## No Weapon Trails (only here)
+
+Removes the trail every weapon leaves when you swing it, for all 29 weapons, and keeps their original looks. Kicks lose their trails too. Effects of skills and special attacks stay.
+
+Download `NoWeaponTrails_1.0.zip` from [Releases](https://github.com/ayokiru/pbz-sanguine-skins/releases) and install it like the files above. Its pak name starts with a small z, so any other mod that changes a weapon wins on that weapon: with Sanguine Skins installed, the Sanguine weapons keep their trails and every other weapon has none. For the Sanguine weapons without trails as well, ask in the comments on Nexus.
+
+Recipe: `recipes/no-weapon-trails.json` (trails set to `none` need Bladesmith 0.5.4 or newer).
+
 ## Build it yourself
 
 The `recipes` folder has a [Bladesmith](https://github.com/ayokiru/pbz-bladesmith) recipe for each file. Bladesmith builds the pak from your own copy of the game, so after a game patch you can rebuild instead of waiting for an update: open the recipe in Bladesmith and press Build & install, or run `bladesmith build recipes/full.json --install`.

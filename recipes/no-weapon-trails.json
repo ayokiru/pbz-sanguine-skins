@@ -1,0 +1,179 @@
+{
+  "pak_name": "zzz_zNoWeaponTrails_P",
+  "weapons": [
+    {
+      "base": "BaiShanFengLeiJian",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "BaiYing",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "ChiRen",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "ChiZheCanJian",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "ChiZheZuiJian",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "CiGuHunDunJian",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "Double",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "DualHook",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "GuiTouBlade",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "HeiMoShang",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "Horizontal",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "Iron",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "JadeDual",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "Jigsaw",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "JueYing",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "Long",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "LuanYing_Evolution",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "PoJun",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "ShuangYue",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "SlitheringSword",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "SnakeDual",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "Tang",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "TianXuanQingTongJian",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "WoodenSword",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "XieShan",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "YanYueDao",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "YuuBlade",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "ZhanMaBlade",
+      "trails": {
+        "*": "none"
+      }
+    },
+    {
+      "base": "ZiMingJian",
+      "trails": {
+        "*": "none"
+      }
+    }
+  ]
+}
