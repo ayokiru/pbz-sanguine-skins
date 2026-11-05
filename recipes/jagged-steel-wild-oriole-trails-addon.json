@@ -1,0 +1,16 @@
+{
+  "pak_name": "zzz_SanguineSkins_JaggedOriole_P",
+  "fx_folder": "/PBZVFXPack/VFX/SanguineSkins_JaggedOriole",
+  "weapons": [
+    {
+      "base": "Iron",
+      "skin": "Tang",
+      "scabbard": true,
+      "trails": {
+        "Normal.A": "NS_LuanYing_BladeTrail_401_P1",
+        "Normal.B": "NS_LuanYing_BladeTrail_401_P2",
+        "Normal.C": "NS_Weapon_Tang_Trail_Charged_001"
+      }
+    }
+  ]
+}
