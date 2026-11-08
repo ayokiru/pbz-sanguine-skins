@@ -1,0 +1,14 @@
+{
+ "pak_name": "zzz_SanguineSkins_FiendSaws_SerpentViper_P",
+ "weapons": [
+  {
+   "base": "YuuBlade",
+   "skin": "SnakeDual",
+   "scabbard": true,
+   "skin_offset": true,
+   "grip_shift": {
+    "1": -7
+   }
+  }
+ ]
+}
